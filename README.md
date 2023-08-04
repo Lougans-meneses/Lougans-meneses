@@ -6,7 +6,7 @@ Desenvolvedor full stack JAVA
 
 Estou aprendendo a programar e em processo de transição de carreira para área da tecnologia, aprendendo HTML5, CSS3, Javascript....
 
-* 🌍  Resido em São Paulo/sp
+* 🌍  Moro em São Paulo/sp
 * ✉️  Entre em contato comigo pelo [Lougans\_meneses@hotmail.com](mailto:Lougans_meneses@hotmail.com)
 * 🧠  Estou aprendendo Atualmente me aperfeiçoando e realizando o curso Desenvolvedor Full Stack Java na EBAC - Escola Britânica de Artes Criativas & Tecnologia
 
