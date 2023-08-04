@@ -1,4 +1,7 @@
-Oi meu nome é Lougans Meneses ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) ============ ==================================================== ==================================================== ======================== Desenvolvedor full stack JAVA ---------------------- ------- Estou aprendendo a codificar e em processo de transição de carreira para área da tecnologia, aprendendo HTML5, CSS3, Javascript. * 🌍 Moro em São Paulo/sp * 🧠 Estou aprendendo Atualmente me aperfeiçoando concluindo o curso Desenvolvedor Full Stack Java na EBAC - Escola Britânica de Artes Criativas & Tecnologia
+Oi meu nome é Lougans Meneses ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  ======================== ======================== Desenvolvedor full stack JAVA ---------------------- -------
+Estou aprendendo a codificar e em processo de transição de carreira para área da tecnologia, aprendendo HTML5, CSS3, Javascript.
+* 🌍 Moro em São Paulo/sp
+* 🧠 Estou aprendendo Atualmente me aperfeiçoando concluindo o curso Desenvolvedor Full Stack Java na EBAC - Escola Britânica de Artes Criativas & Tecnologia
 
 ### Habilidades
 
