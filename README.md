@@ -4,7 +4,7 @@ OLÁ ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Desenvolvedor full stack JAVA
 -----------------------------
 
-Estou aprendendo a codificar e em processo de transição de carreira para área da tecnologia, aprendendo HTML5, CSS3, Javascript....
+Estou aprendendo a programar e em processo de transição de carreira para área da tecnologia, aprendendo HTML5, CSS3, Javascript....
 
 * 🌍  Resido em São Paulo/sp
 * ✉️  Entre em contato comigo pelo [Lougans\_meneses@hotmail.com](mailto:Lougans_meneses@hotmail.com)
