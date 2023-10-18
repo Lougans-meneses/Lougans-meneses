@@ -9,7 +9,7 @@ Estou aprendendo a programar e em processo de transição de carreira para área
 * 🌍  Moro em São Paulo/sp
 * ✉️  Entre em contato comigo pelo [Lougans\_meneses@hotmail.com](mailto:Lougans_meneses@hotmail.com)
 * 🧠  Estou aprendendo Atualmente me aperfeiçoando e realizando o curso Desenvolvedor Full Stack Java na EBAC - Escola Britânica de Artes Criativas & Tecnologia
-<p aling="center">
+
 ### Habilidades
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
@@ -17,16 +17,12 @@ Estou aprendendo a programar e em processo de transição de carreira para área
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git)
-</p>
-<p aling="center">
+
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lougans-moura/)
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/SEUUSERNAME/)
-</p>
-<p aling="center">
+  
 ## GitHub Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lougans-meneses&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
-</p>
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lougans-meneses&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
 <br/>
-
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lougans-meneses&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
