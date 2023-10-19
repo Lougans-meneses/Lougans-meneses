@@ -31,6 +31,6 @@
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lougans-meneses&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Minhas Estatísticas">
   </p>
   <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lougans-meneses&layout=compact&bg_color=000000&theme=dark" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lougans-meneses&layout=compact&theme=dark" alt="Top Langs">
 </p>
 </div>
