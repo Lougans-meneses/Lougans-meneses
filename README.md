@@ -29,7 +29,7 @@ Estou aprendendo a programar e em processo de transição de carreira para área
 <div  align="center">
 <h2> MINHAS ESTATÍSTICAS </h2>
 	
-![Minhas Estatísticas](https://github-readme-stats-eight-theta.vercel.app/api?username=lougans-meneses&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Minhas Estatísticas](https://github-readme-stats-eight-theta.vercel.app/api?username=lougans-meneses&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 	  
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dry-A&layout=compact&langs_count=8&theme=dracula"/>
 
