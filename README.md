@@ -31,6 +31,6 @@ Estou aprendendo a programar e em processo de transição de carreira para área
 	
 ![Minhas Estatísticas](https://github-readme-stats-eight-theta.vercel.app/api?username=lougans-meneses&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 	  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lougans-meneses&layout=compact)
+![Top Langs][(https://github-readme-stats.vercel.app/api/top-langs/?username=lougans-meneses&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Lougans-meneses)https://github.com/Lougans-meneses)
 
 </div>	
