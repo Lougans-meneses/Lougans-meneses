@@ -2,7 +2,6 @@ OLÁ ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 =======================================================================================================================================
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fffd&center=true&vCenter=true&width=1000&lines=Dev+Full+stack+com+foco+em+Java)](https://git.io/typing-svg)
------------------------------
 
 Estou aprendendo a programar e em processo de transição de carreira para área da tecnologia, aprendendo HTML5, CSS3, Javascript....
 
@@ -23,9 +22,10 @@ Estou aprendendo a programar e em processo de transição de carreira para área
     
 </div>
 
-## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lougans-moura/)
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/SEUUSERNAME/)
+<h2 align="center"> COMO SE CONECTAR COMIGO </h2>
+ 
+<a href="[https://www.linkedin.com/in/audrey-dev/](https://www.linkedin.com/in/lougans-moura/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.duolingo.com/profile/audrey_dev" target="_blank"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a>
   
 ## GitHub Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lougans-meneses&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
