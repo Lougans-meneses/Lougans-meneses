@@ -1,7 +1,7 @@
 OLÁ ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), Meu nome é Lougans Meneses
 =======================================================================================================================================
 
-Desenvolvedor full stack JAVA
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fffd&center=true&vCenter=true&width=1000&lines=Dev+Full+stack+com+foco+em+Java)](https://git.io/typing-svg)
 -----------------------------
 
 Estou aprendendo a programar e em processo de transição de carreira para área da tecnologia, aprendendo HTML5, CSS3, Javascript....
@@ -10,12 +10,18 @@ Estou aprendendo a programar e em processo de transição de carreira para área
 * ✉️  Entre em contato comigo pelo [Lougans\_meneses@hotmail.com](mailto:Lougans_meneses@hotmail.com)
 * 🧠  Estou aprendendo Atualmente me aperfeiçoando e realizando o curso Desenvolvedor Full Stack Java na EBAC - Escola Britânica de Artes Criativas & Tecnologia
 
-## Habilidades
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git)
+<div>
+  <h2 align="center"> SKILLS </h2>
+ 
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30,5" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="40"/> 
+    
+</div>
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lougans-moura/)
