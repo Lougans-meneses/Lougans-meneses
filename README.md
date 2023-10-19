@@ -26,4 +26,4 @@ Estou aprendendo a programar e em processo de transição de carreira para área
 <br/>
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lougans-meneses&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
 ##
-![github-contribution-grid-snake](https://github.com/Lougans-meneses/cobrinha.yml/assets/147098427/73393a7a-e081-48d7-a968-64708768fe2b)
+![github-contribution-grid-snake](https://github.com/Lougans-meneses/assets/147098427/73393a7a-e081-48d7-a968-64708768fe2b)
