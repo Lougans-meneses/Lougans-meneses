@@ -7,8 +7,8 @@
   </p>
   <p>Estou aprendendo a programar e em processo de transição de carreira para a área da tecnologia, aprendendo HTML5, CSS3, Javascript...</p>
   <ul>
-    🌍  Moro em São Paulo/sp
-    ✉️  Entre em contato comigo pelo <a href="mailto:Lougans_meneses@hotmail.com">Lougans_meneses@hotmail.com</a>
+    🌍  Moro em São Paulo/sp <br>
+    ✉️  Entre em contato comigo pelo <a href="mailto:Lougans_meneses@hotmail.com">Lougans_meneses@hotmail.com</a><br>
     🧠  Atualmente me aperfeiçoando e realizando o curso Desenvolvedor Full Stack Java na EBAC - Escola Britânica de Artes Criativas & Tecnologia
   </ul>
   <h2>SKILLS</h2>
