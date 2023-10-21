@@ -24,7 +24,7 @@
   <p>
     <a href="https://www.linkedin.com/in/lougans-moura/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
+    <a href = "https://www.linkedin.com/in/lougans-moura"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </p>
   <h2>MINHAS ESTATÍSTICAS</h2>
   <p>
