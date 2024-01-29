@@ -31,10 +31,9 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     <a href = "https://www.linkedin.com/in/lougans-moura"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </p>
-  <h2 align="center">MINHAS ESTATÍSTICAS</h2>
+  <h2>MINHAS ESTATÍSTICAS</h2>
   <p>
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lougans-meneses&show_icons=true&theme=algolia"&include_all_commits=true&count_private=true" alt="Minhas Estatísticas">
    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lougans-meneses&layout=compact&bg-color=0000&theme=algolia" alt="Top Langs">
-</a>
   </p>
 </div>
