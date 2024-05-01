@@ -10,7 +10,8 @@
   <ul>
     🌍  Moro em São Paulo/sp <br>
     ✉️  Entre em contato comigo pelo <a href="mailto:Lougans_meneses@hotmail.com">Lougans_meneses@hotmail.com</a><br>
-    🧠  Atualmente me aperfeiçoando e realizando o curso Desenvolvedor Full Stack Java na EBAC - Escola Britânica de Artes Criativas & Tecnologia
+    🧠  Atualmente me aperfeiçoando e realizando o curso Analise e Desenvolvimento de Sistema na FAM Faculdade das Américas
+    📚 Desenvolvedor Full Stack Java na EBAC, Desenvolvimento Back-end Java na Alura pelo programa Next ONE da Oracle, Desenvolvimento Back-end na Alura pela programa da Boticario, Back-end Java na DIO pelo Santander
   </ul>
 <div align="center">
   <h2>SKILLS</h2>
