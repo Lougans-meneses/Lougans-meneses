@@ -2,7 +2,7 @@
   <h1>OLÁ <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30">, Meu nome é Lougans Meneses</h1>
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fffd&center=true&vCenter=true&width=1000&lines=Dev+Full+stack+com+foco+em+Java" alt="Typing SVG">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fffd&center=true&vCenter=true&width=1000&lines=Dev+Full+stack+com+foco+em+Java;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo" alt="Typing SVG">
     </a>
   </p>
 </div>
