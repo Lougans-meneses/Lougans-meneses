@@ -39,5 +39,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lougans-meneses&show_icons=true&theme=algolia"&include_all_commits=true&count_private=true" alt="Minhas Estatísticas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lougans-meneses&layout=compact&bg-color=0000&theme=algolia" alt="Top Langs">
 </div>
-![snake gif](https://github.com/Lougans-meneses/Lougans-meneses/blob/output/github-snake-dark.svg)
+
 
