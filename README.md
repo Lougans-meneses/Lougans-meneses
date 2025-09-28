@@ -6,7 +6,7 @@
     </a>
   </p>
 </div>
-  <p>Estou aprendendo a programar e em processo de transição de carreira para a área da tecnologia, aprendendo HTML5, CSS3, Javascript...</p>
+<p>Estou aprendendo a programar e em processo de transição de carreira para a área da tecnologia, aprendendo HTML5, CSS3, Javascript...</p>
   <ul>
     🌍  Moro em São Paulo/sp <br>
     ✉️  Entre em contato comigo pelo <a href="mailto:Lougans_meneses@hotmail.com">Lougans_meneses@hotmail.com</a><br>
@@ -22,7 +22,8 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/>
+</code>
   </p>
 </div>
 <div align="center">
@@ -32,9 +33,11 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     <a href = "https://www.linkedin.com/in/lougans-moura"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </p>
-  <h2>MINHAS ESTATÍSTICAS</h2>
-  <p>
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lougans-meneses&show_icons=true&theme=algolia"&include_all_commits=true&count_private=true" alt="Minhas Estatísticas">
-   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lougans-meneses&layout=compact&bg-color=0000&theme=algolia" alt="Top Langs">
-  </p>
 </div>
+<div align="center">
+  <h2>MINHAS ESTATÍSTICAS</h2>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lougans-meneses&show_icons=true&theme=algolia"&include_all_commits=true&count_private=true" alt="Minhas Estatísticas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lougans-meneses&layout=compact&bg-color=0000&theme=algolia" alt="Top Langs">
+</div>
+![snake gif](https://github.com/Lougans-meneses/Lougans-meneses/blob/output/github-snake-dark.svg)
+
